@@ -1,2 +1,2 @@
-git clone https://github.com/Alekossta/OpenGLTemplate
-open .sln file and build and run
+1. git clone https://github.com/Alekossta/OpenGLTemplate
+2. open .sln file and build and run
